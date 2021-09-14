@@ -1,3 +1,0 @@
-August security patch
-Translations updated
-Minor bug fixes

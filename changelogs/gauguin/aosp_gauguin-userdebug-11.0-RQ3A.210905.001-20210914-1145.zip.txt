@@ -1,0 +1,4 @@
+September security patch
+Updated translations
+Fixed safetynet
+Others fixes
