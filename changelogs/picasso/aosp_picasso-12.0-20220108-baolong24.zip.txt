@@ -1,0 +1,3 @@
+Switch to oss kernel
+Fixed Fingerprint for some device
+Fixed DT2W
