@@ -1,0 +1,6 @@
+2022-02-16
+----------------------
+1. Bring back OTA. 
+2. Add GSI support. 
+3. Block key event on FPC fingerprint. (Will fix screenshot)
+4. Set marketname. 
