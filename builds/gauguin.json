@@ -1,15 +1,6 @@
 {
     "response": [
         {
-            "datetime": 3000000000,
-            "filename": "Magisk-24.1.zip",
-            "id": "ea5e3823d9a96fa7cbf5e9a95970e816357fae69c258f42cd4a1c514fdde1196",
-            "size": 10575823,
-            "url": "https://lynnrin.download/Other/Magisk-24.1-sign.zip",
-            "updateable": true,
-            "version": "12"
-        },
-        {
             "datetime": 1645016614,
             "filename": "gauguin-ota-sq1d.220105.007-20220216-凛々.zip",
             "id": "85b3dd4a6e73c1c6dddea2be40450f8210849926f46ecef624caba05580c9583",
