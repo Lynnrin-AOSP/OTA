@@ -2,10 +2,10 @@
     "response": [
         {
             "datetime": 1654238592,
-            "filename": "thyme-ota-SP2A.220505.002-20220603-Lynnrin.zip",
-            "id": "39f03f1307ed2893582114e8720a0199cbb35c222510a97c3144ff743cd86ec5",
-            "size": 2415842881,
-            "url": "https://download.lynnrin.moe/Ali/thyme-ota-SP2A.220505.002-20220603-Lynnrin.zip",
+            "filename": "thyme-ota-SP2A.220505.002-20220605-Lynnrin.zip",
+            "id": "d8152dc3ede292dabed26f77b8ee8652b7e59a59af207ceca9a2156836c5a348",
+            "size": 2415835737,
+            "url": "https://download.lynnrin.moe/Ali/thyme-ota-SP2A.220505.002-20220605-Lynnrin.zip",
             "updateable": true,
             "version": "12"
         }
