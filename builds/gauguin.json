@@ -1,20 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1645016614,
-            "filename": "gauguin-ota-sq1d.220105.007-20220216-凛々.zip",
-            "id": "85b3dd4a6e73c1c6dddea2be40450f8210849926f46ecef624caba05580c9583",
-            "size": 1919768979,
-            "url": "https://lynnrin.download/ROM/Redmi%20Note%209%20Pro%20&%20Mi%2010i%20&%20Mi%2010T%20Lite/AOSP/12/gauguin-ota-sq1d.220105.007-20220216-%E5%87%9B%E3%80%85.zip",
-            "updateable": true,
-            "version": "12"
-        },
-        {
-            "datetime": 1645434301,
-            "filename": "gauguin-ota-sq1d.220205.004-20220221-凛々.zip",
-            "id": "7af369474f4500477da9456be4cb231c1f173e75885a264029f72b959aab399e",
-            "size": 1982887343,
-            "url": "https://lynnrin.download/ROM/Redmi%20Note%209%20Pro%20&%20Mi%2010i%20&%20Mi%2010T%20Lite/AOSP/12/gauguin-ota-sq1d.220205.004-20220221-%E5%87%9B%E3%80%85.zip",
+            "datetime": 1655203839,
+            "filename": "gauguin-ota-SQ3A.220605.009.A1-20220614-Lynnrin.zip",
+            "id": "ed60676fe9335672a2f1c543a6473e9987a72ea772aec9113260e1ab0c5a7313",
+            "size": 2022254755,
+            "url": "https://download.lynnrin.moe/Ali/ROM/gauguin/Lynnrin/gauguin-ota-SQ3A.220605.009.A1-20220614-Lynnrin.zip",
             "updateable": true,
             "version": "12"
         }
