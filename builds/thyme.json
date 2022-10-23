@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1654228592,
-            "filename": "thyme-ota-SP2A.220505.002-20220607-Lynnrin.zip",
-            "id": "39c8cd211b45622d22cc640ff74a5190c2445a42f3f741ae100056966832be48",
-            "size": 2415827552,
-            "url": "https://download.lynnrin.moe/Ali/ROM/thyme/Lynnrin/thyme-ota-SP2A.220505.002-20220607-Lynnrin.zip",
+            "datetime": 1666509738,
+            "filename": "thyme-ota-TP1A.221005.002-20221023-Lynnrin.zip",
+            "id": "e93d9e8f5d280819e5c53fb7be288fbe87f5c717115dc3804b571c2561dd07a1",
+            "size": 1826762616,
+            "url": "https://download.lynnrin.moe/share_disk/thyme-ota-TP1A.221005.002-20221023-Lynnrin.zip",
             "updateable": true,
-            "version": "12"
+            "version": "13"
         }
     ]
 }
