@@ -8,6 +8,15 @@
             "url": "https://download.lynnrin.moe/share_disk/ROM/Xiaomi%20Mi%2010S/AOSP/thyme-ota-TP1A.221005.002-20221023-Lynnrin.zip",
             "updateable": true,
             "version": "13"
+        },
+        {
+            "datetime": 1666970379,
+            "filename": "thyme-ota-TP1A.221005.002-20221028-Lynnrin.zip",
+            "id": "c8c6734151351a5e915fe9b89c48dcf1aa181f990e40f72fafca1e8801e23c07",
+            "size": 1955436411,
+            "url": "https://download.lynnrin.moe/share_disk/ROM/Xiaomi%20Mi%2010S/AOSP/thyme-ota-TP1A.221005.002-20221028-Lynnrin.zip",
+            "updateable": true,
+            "version": "13"
         }
     ]
 }
