@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1655203839,
-            "filename": "gauguin-ota-SQ3A.220605.009.A1-20220614-Lynnrin.zip",
-            "id": "ed60676fe9335672a2f1c543a6473e9987a72ea772aec9113260e1ab0c5a7313",
-            "size": 2022254755,
-            "url": "https://download.lynnrin.moe/Ali/ROM/gauguin/Lynnrin/gauguin-ota-SQ3A.220605.009.A1-20220614-Lynnrin.zip",
+            "datetime": 1667128638,
+            "filename": "gauguin-ota-TP1A.221005.002-20221030-Lynnrin.zip",
+            "id": "94dda9062f90fbb0cc09e7903783fa4b3d19d70944d5f374169713cb4b16afa5",
+            "size": 2120232062,
+            "url": "https://download.lynnrin.moe/share_disk/ROM/Redmi%20Note%209%20Pro%20&%20Mi%2010i%20&%20Mi%2010T%20Lite/AOSP/13/gauguin-ota-TP1A.221005.002-20221030-Lynnrin.zip",
             "updateable": true,
-            "version": "12"
+            "version": "13"
         }
     ]
 }
