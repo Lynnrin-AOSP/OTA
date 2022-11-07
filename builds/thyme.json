@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1667145309,
-            "filename": "thyme-ota-TP1A.221005.002-20221030-Lynnrin.zip",
-            "id": "eaf9be740909a39b2865d6522a17bd2d5ce79d24cc3d6e9a9854e90358d924b9",
-            "size": 1955438136,
-            "url": "https://download.lynnrin.moe/share_disk/ROM/Xiaomi%20Mi%2010S/AOSP/thyme-ota-TP1A.221005.002-20221030-Lynnrin.zip",
+            "datetime": 1667805397,
+            "filename": "thyme-ota-TD1A.220804.031-20221107-Lynnrin.zip",
+            "id": "35a0029ead439f77e25a20e221960f35e354ac376068bfde7b61c9ed3db51922",
+            "size": 1929719906,
+            "url": "https://download.lynnrin.moe/share_disk/ROM/Xiaomi%20Mi%2010S/AOSP/thyme-ota-TD1A.220804.031-20221107-Lynnrin.zip",
             "updateable": true,
             "version": "13"
         }
