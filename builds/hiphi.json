@@ -5,7 +5,7 @@
             "filename": "hiphi-ota-TQ1A.230105.002-20230120-Lynnrin.zip",
             "id": "fe9d2ac46ced9bfaac9f438cba608a879b59aa5d5815af754bd08eb118040089",
             "size": 2143508308,
-            "baseurl": "https://download.lynnrin.moe/",
+            "baseurl": "https://download.lynnrin.moe/api/fs/get",
             "path": "/OneDrive/ROM/Motorola%20Edge%20X30%20&%2030%20Pro/AOSP/hiphi-ota-TQ1A.230105.002-20230120-Lynnrin.zip",
             "updateable": true,
             "version": "13"
