@@ -1,12 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1763023427,
-            "filename": "hiphi-ota-TQ1A.230105.002-20230120-Lynnrin.zip",
+            "datetime": 1673023427,
+            "filename": "thyme-ota-TQ1A.230105.002-20230106-Lynnrin.zip",
             "id": "fe9d2ac46ced9bfaac9f438cba608a879b59aa5d5815af754bd08eb118040089",
             "size": 2143508308,
-            "baseurl": "https://download.lynnrin.moe/api/fs/get",
-            "path": "/OneDrive/ROM/Motorola%20Edge%20X30%20&%2030%20Pro/AOSP/hiphi-ota-TQ1A.230105.002-20230120-Lynnrin.zip",
+            "url": "https://download.lynnrin.moe/share_disk/ROM/Xiaomi%20Mi%2010S/AOSP/thyme-ota-TQ1A.230105.002-20230106-Lynnrin.zip",
             "updateable": true,
             "version": "13"
         }
