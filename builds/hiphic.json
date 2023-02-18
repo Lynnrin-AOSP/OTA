@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1674990199,
-            "filename": "hiphic-ota-TQ1A.230105.002-20230129-Lynnrin.zip",
-            "id": "da9964dd6a47dd73d9bcc5a5519d17ddab5db09121ed058de098c6aae798d488",
-            "size": 2110675539,
-            "url": "https://ota.lynnrin.moe/share_disk/ROM/Motorola%20Edge%20X30%20&%2030%20Pro/hiphic/AOSP/hiphic-ota-TQ1A.230105.002-20230129-Lynnrin.zip",
+            "datetime": 1676729789,
+            "filename": "hiphic-ota-TQ1A.230205.002-20230218-Lynnrin.zip",
+            "id": "b62fc6a215d81c4d886b236e7b19de4d7b092c910d31a077d4269b0d8b8ce9be",
+            "size": 1880179512,
+            "url": "https://ota.lynnrin.moe/share_disk/ROM/Motorola%20Edge%20X30%20&%2030%20Pro/hiphic/AOSP/hiphic-ota-TQ1A.230205.002-20230218-Lynnrin.zip",
             "updateable": true,
             "version": "13"
         }
