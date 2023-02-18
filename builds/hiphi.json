@@ -1,12 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1763023427,
-            "filename": "hiphi-ota-TQ1A.230105.002-20230120-Lynnrin.zip",
-            "id": "fe9d2ac46ced9bfaac9f438cba608a879b59aa5d5815af754bd08eb118040089",
-            "size": 2143508308,
-            "baseurl": "https://download.lynnrin.moe/api/fs/get",
-            "path": "/OneDrive/ROM/Motorola%20Edge%20X30%20&%2030%20Pro/AOSP/hiphi-ota-TQ1A.230105.002-20230120-Lynnrin.zip",
+            "datetime": 1676733013,
+            "filename": "hiphi-ota-TQ1A.230205.002-20230218-Lynnrin.zip",
+            "id": "3366984e28ff6a8a198ba379e68bed2920e7974e9a43c7a4678a5087a9b4b4ed",
+            "size": 1880179512,
+            "url": "https://ota.lynnrin.moe/share_disk/ROM/Motorola%20Edge%20X30%20&%2030%20Pro/hiphi/AOSP/hiphi-ota-TQ1A.230205.002-20230218-Lynnrin.zip",
             "updateable": true,
             "version": "13"
         }
